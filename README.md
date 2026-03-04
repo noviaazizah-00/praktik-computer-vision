@@ -5,6 +5,8 @@ Praktik pembuatan environment menggunakan Anaconda.
 
 Langkah yang Dilakukan
 - Membuat environment baru
+- Mengaktifkan ENV
+- Install opencv
 - Mengecek daftar environment
 - Mengaktifkan environment
 
