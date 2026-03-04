@@ -8,7 +8,7 @@ Langkah yang Dilakukan
 - Mengaktifkan ENV
 - Install opencv
 - Mengecek daftar environment
-- Mengaktifkan environment
+- Mengecek library
 
 Video Presentasi
 (https://youtu.be/3VMOpBfdyio?si=nN4Go5dA2FGgrO5m)
